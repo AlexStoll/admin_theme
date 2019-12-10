@@ -1,0 +1,1 @@
+This is an admin theme created with the goal of learning to use bootstrap css.
